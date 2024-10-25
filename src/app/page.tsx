@@ -1,4 +1,3 @@
-import Image from "next/image";
 import CardWithImage from "./components/AnimatedCardWithImage/page";
 import CardWithoutImage from "./components/AnimatedCardWithoutImage/paage";
 import CustomCard from "./components/CustomCard/page";
